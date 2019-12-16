@@ -25,9 +25,9 @@ Follow directions at https://www.anaconda.com/distribution/#download-section to 
 
 Then:
 
-'conda install numpy'
+`conda install numpy`
 
-'conda install pytorch torchvision cudatoolkit=10.1 -c pytorch'    (change cudatoolkit version as necessary)
+`conda install pytorch torchvision cudatoolkit=10.1 -c pytorch`    (change cudatoolkit version as necessary)
 
 
 
